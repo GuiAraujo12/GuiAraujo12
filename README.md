@@ -4,7 +4,7 @@ Sou estudante de Ciência da Computação e estou construindo projetos para dese
 
 ## Sobre mim
 
-- 🎓 Estudante de Ciência da Computação
+- 🎓 Estudante de Ciência da Computação na Universidade Federal de Campina Grande 
 - ☕ Conhecimentos em Java e Python
 - 🗄️ Estudando Banco de Dados, PostgreSQL e modelagem de dados
 - 🚀 Buscando oportunidades de estágio e aprendizado na área de tecnologia
