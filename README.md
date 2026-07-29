@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! Eu sou Guilherme Araujo 👋
 
-<!--
-**GuiAraujo12/GuiAraujo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação e estou construindo projetos para desenvolver minhas habilidades em programação e tecnologia.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Ciência da Computação
+- ☕ Conhecimentos em Java e Python
+- 🗄️ Estudando Banco de Dados, PostgreSQL e modelagem de dados
+- 🚀 Buscando oportunidades de estágio e aprendizado na área de tecnologia
+
+## Tecnologias que estudo
+
+- ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- Modelagem de Banco de Dados
+- ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+
+## Projetos em desenvolvimento
+
+
+## Contato
+
+- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : www.linkedin.com/in/guilherme-araújo-49b97b366  
+- ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : guilhermeaaraujo57@gmail.com
