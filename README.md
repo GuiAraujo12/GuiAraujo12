@@ -69,12 +69,13 @@ Repositório contendo projetos desenvolvidos durante meus estudos de programaç�
 - SQL
 - Git e GitHub
 
+<!--
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuiAraujo12&show_icons=true&theme=github_dark)
 
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAraujo12&layout=compact&theme=github_dark)
-
+-->
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-araújo-49b97b366)
