@@ -71,9 +71,9 @@ Repositório contendo projetos desenvolvidos durante meus estudos de programaç�
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuiAraujo12&show_icons=true&theme=github_dark&locale=pt-br)
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&locale=pt-br)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAraujo12&layout=compact&theme=github_dark&locale=pt-br)
 
 ## 📫 Contato
 
