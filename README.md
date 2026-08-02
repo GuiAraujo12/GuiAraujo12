@@ -78,6 +78,6 @@ Repositório contendo projetos desenvolvidos durante meus estudos de programaç�
 -->
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-araújo-49b97b366)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]  www.linkedin.com/in/guilherme-araújo-49b97b366
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeaaraujo57@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]  guilhermeaaraujo57@gmail.com
