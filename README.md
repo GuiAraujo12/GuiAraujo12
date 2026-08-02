@@ -56,10 +56,13 @@ O projeto inclui:
 
 ## 📂 Outros projetos
 
-### Projetos e exercícios em Java
+### Projetos e exercícios
 
 Repositório contendo projetos desenvolvidos durante meus estudos de programação orientada a objetos, estruturas de dados, testes e organização de software.
 
+Questões:
+🔗 [Acessar o repositório](https://github.com/GuiAraujo12/questions-solution)
+Projeto POO e SQL:
 🔗 [Acessar o repositório](https://github.com/GuiAraujo12/sistema-cadastra-alunos)
 
 ## 📚 Atualmente estudando
@@ -78,6 +81,6 @@ Repositório contendo projetos desenvolvidos durante meus estudos de programaç�
 -->
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]  www.linkedin.com/in/guilherme-araújo-49b97b366
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  www.linkedin.com/in/guilherme-araújo-49b97b366
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]  guilhermeaaraujo57@gmail.com
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)  guilhermeaaraujo57@gmail.com
