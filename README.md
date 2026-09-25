@@ -32,24 +32,21 @@ Atualmente estou construindo projetos para fortalecer meu portfólio, aplicar os
 
 ## 📊 Projeto em destaque
 
-### Dashboard de análise financeira
+### Dash Analyzer
 
-Projeto de análise de dados desenvolvido com **Python, Pandas e Power BI**.
+Aplicação web full-stack para Análise Exploratória de Dados (EDA) automatizada com **Python, Flask, Pandas e Inteligência Artificial**.
 
 O projeto inclui:
 
-- importação e tratamento de dados;
-- identificação de valores ausentes e duplicados;
-- criação de indicadores financeiros;
-- análise de faturamento, custo, lucro e margem;
-- análise por produto, vendedor, cidade e período;
-- criação de medidas DAX;
-- dashboard interativo no Power BI;
-- filtros e comparação entre meses.
+- processamento e limpeza instantânea de ficheiros CSV;
+- extração inteligente de perfil estatístico para o contexto da IA;
+- validação rigorosa de colunas para evitar alucinações do modelo;
+- geração automática de gráficos dinâmicos (histogramas e barras) com Plotly;
+- chat interativo integrado para exploração de dados em tempo real;
 
-**Tecnologias:** Python, Pandas, Power BI, DAX e CSV.
+**Tecnologias:** Python, Flask, Pandas, Plotly, Groq API (LLM) e JavaScript.
 
-🔗 [Acessar o projeto](https://github.com/GuiAraujo12/dashboard-financeiro)
+🔗 [Acessar o projeto](https://github.com/GuiAraujo12/dash-analyzer)
 
 ## 📂 Outros projetos
 
@@ -61,6 +58,8 @@ Questões:
 🔗 [Acessar o repositório](https://github.com/GuiAraujo12/questions-solution)
 Projeto POO e SQL:
 🔗 [Acessar o repositório](https://github.com/GuiAraujo12/sistema-cadastra-alunos)
+Titanic - Machine Learning from Disaster
+🔗 [Acessar o repositório](https://github.com/GuiAraujo12/projeto-titanic-kaggle)
 
 ## 📚 Atualmente estudando
 
