@@ -56,8 +56,10 @@ Repositório contendo projetos desenvolvidos durante meus estudos de programaç�
 
 Questões:
 🔗 [Acessar o repositório](https://github.com/GuiAraujo12/questions-solution)
+
 Projeto POO e SQL:
 🔗 [Acessar o repositório](https://github.com/GuiAraujo12/sistema-cadastra-alunos)
+
 Titanic - Machine Learning from Disaster
 🔗 [Acessar o repositório](https://github.com/GuiAraujo12/projeto-titanic-kaggle)
 
